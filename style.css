@@ -1,0 +1,28 @@
+.carousel-item{
+    height: 920px;
+
+}
+.carousel-image-1{
+    background-image: url("image/ลอง.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+
+}
+
+.carousel-image-2{
+    background-image: url("image/ลอง2.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+
+.carousel-image-3{
+    background-image: url("image/ลแง3.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+
+.carousel-image-4{
+    background-image: url("image/ลแง4.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+}
